@@ -1,0 +1,635 @@
+<html>
+<title>Shosho</title>
+
+<body style="background-color:#001F1F;color:white">
+    <header><p style="text-align:right;color:white;font-size:12px">Ваше місто:Чернівці  Доставка Контакти Про нас</p>
+    <p style="text-align:left;color:white;font-size:10px ">(050) 379 78 78<br/> м.Чернівці
+    <br/>Пн. - Нд.: 9:00 - 22:00<br/>Вівторок: 10:00 - 22:00</p>
+    <p  style="text-align:center"><img src="https://shosho.pizza/vendor/shop/images/sho_sho_logo_header.svg"></p>
+    <p style="color:white;font-size:20px;word-spacing: 10px">
+        <a style="text-align:left;color:white;font-size:20px" href="#Новинки">Новинки</a>   
+        <a style="color:white;font-size:20px" href="#Сніданки"> Сніданки(09:00-12:00)</a>   
+        <a style="text-align:left;color:white;font-size:20px" href="#Піца "> Піца  </a> 
+        <a style="text-align:left;color:white;font-size:20px" href="#Суші "> Суші </a> 
+        <a style="text-align:left;color:white;font-size:20px" href="#Салати"> Салати</a> 
+        <a style="text-align:left;color:white;font-size:20px" href="#Холоднізакуски">Холодні закуски</a>   
+        <a style="text-align:left;color:white;font-size:20px" href="#Першістрави">Перші страви </a>  
+        <a style="text-align:left;color:white;font-size:20px" href="#Млинцітапироги">Млинці та пироги</a>   
+        <a style="text-align:left;color:white;font-size:20px" href="#ПастиіWOG">Пасти & WOG </a> 
+        <a style="text-align:left;color:white;font-size:20px" href="#Гарячістравитагарніри">Гарачі страви та гарніри </a> 
+        <a style="text-align:left;color:white;font-size:20px" href="#Бургери ">Бургери </a> 
+        <a style="text-align:left;color:white;font-size:20px" href="#Соуси">Соуси  </a>
+        <a style="text-align:left;color:white;font-size:20px" href="#Грильменю">Гриль меню</a>  
+        <a style="text-align:left;color:white;font-size:20px" href="#Десерти">Десерти </a>  
+        <a style="text-align:left;color:white;font-size:20px" href="#Додатки">Додатки</a> </p>
+    </header>
+    <main>
+        <p style="text-align:center"><img src="https://shosho.pizza/shop/slider/3.png" width="800px"></p>
+        <h2 id="Новинки" style="text-align:center">Новинки</h2>
+            <img src="https://shosho.pizza/shop/thumbnails_product_460_/IMG_5786.jpeg"width="200px">
+           <img src="https://shosho.pizza/shop/thumbnails_product_460_/%D0%91%D1%83%D1%80%D0%B3%D0%B5%D1%80%20%D0%B7%20%D1%85%D1%80%D1%83%D1%81%D1%82%D0%BA%D0%BE%D1%8E%20%D0%BA%D1%83%D1%80%D0%BA%D0%BE%D1%8E.jpeg"width="200px">
+           <img src="https://shosho.pizza/shop/thumbnails_product_460_/IMG_5787.jpeg"width="200px">
+           <img src="https://shosho.pizza/shop/thumbnails_product_460_/IMG_5757.jpeg"width="200px">
+           <table>
+        <tr style="font-size:18px">
+            <td>Кайсері </td>
+            <td>Бургер з хрусткою куркою</td>
+            <td>Запечений язик із грибами</td>
+            <td>Суші Хот-Дог з лососем</td>
+        </tr>
+        <tr style="font-size:13px">
+            <td> Соус томатний, моцарелла, томлена</td>
+            <td>булка, філе стегна у паніровці із панко,</td>
+            <td>Печериці, цибуля, сметана, язик</td>
+            <td>Лосось, норі, рис, крем-сир, салат</td>
+        </tr>
+        <tr style="font-size:13px">
+            <td>свинина, яловичий язик, соус</td>
+            <td>помідор, гірчичка,базилік, соус</td>
+            <td>яловичий, картопляне пюре,</td>
+            <td>беконовий джем, крем сир, мікс салату,</td>
+        </tr>
+        <tr style="font-size:12px">
+            <td>кокосове молоко, цукор, м'ята, сезонн</td>
+            <td>салату, помідори чері, яйце куряче, хліб</td>
+            <td>сир страчателла, мікрогрін.</td>
+            <td>айсберг, ікра корюшки, зелена цибуля,</td>
+        </tr>
+        <tr style="font-size:13px">
+            <td>бешамель, ковбаса папероні, чері,</td>
+            <td>дзадзикі, подається із картопляними</td>
+            <td>пармезан, мікрогрін</td>
+            <td>ікра лосося, соус унагі, майонез</td>
+        </tr>
+         <tr style="font-size:13px">
+            <td>перець болгарський, мариновані</td>
+            <td>діпами та кетчупом</td>
+            <td></td>
+            <td>японський, соус шрірача, темпура,</td>
+        </tr>
+        <tr>
+            <td>артишоки, коппа, базилік, пармезан</td>
+            <td></td>
+            <td></td>
+            <td>сухарі панко</td>
+        </tr>
+    </table>
+            
+        <h2 id="Сніданки"style="text-align:center">Сніданки(09:00-12:00)</h2>
+             <img src="https://shosho.pizza/shop/thumbnails_product_460_/%D0%92%D1%96%D0%B2%D1%81%D1%8F%D0%BD%D0%BA%D0%B0%20%D0%B7%20%D0%BA%D0%BE%D0%BA%D0%BE%D1%81%D0%BE%D0%B2%D0%B8%D0%BC%20%D0%BC%D0%BE%D0%BB%D0%BE%D0%BA%D0%BE%D0%BC%20%D1%82%D0%B0%20%D1%84%D1%80%D1%83%D0%BA%D1%82%D0%B0%D0%BC%D0%B8.jpeg"width="200px">
+           <img src="https://shosho.pizza/shop/thumbnails_product_460_/%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BD%D1%96%D0%B4%D0%B0%D0%BD%D0%BE%D0%BA.jpeg"width="200px">
+           <img src="https://shosho.pizza/shop/thumbnails_product_460_/%D0%A1%D0%BA%D1%80%D0%B0%D0%BC%D0%B1%D0%BB%20%20%D1%96%D0%B7%20%D1%81%D1%82%D1%80%D0%B0%D1%87%D0%B0%D1%82%D0%B5%D0%BB%D0%BB%D0%BE%D1%8E.jpeg"width="200px">
+           <img src="https://shosho.pizza/shop/thumbnails_product_460_/%D0%91%D1%80%D1%96%D0%BE%D1%88_%D0%B7_%D0%B1%D0%B5%D0%BA%D0%BE%D0%BD%D0%BE%D0%B2%D0%B8%D0%BC_%D0%B4%D0%B6%D0%B5%D0%BC%D0%BE%D0%BC_%D1%82%D0%B0_%D1%8F%D1%94%D1%87%D0%BD%D0%B5%D1%8E.jpeg"width="200px">
+    <table>
+        <tr style="font-size:18px">
+            <td>Вівсянка з кокосовим молоком </td>
+            <td>Американський сніданок</td>
+            <td>Скрембл із страчателлою</td>
+            <tdБріош з беконовим джемом та яєчнею</td>
+        </tr>
+        <tr style="font-size:13px">
+            <td style="font-size:18px"> та фруктами</td>
+            <td>Бекон копчений, квасоля в томатному</td>
+            <td>Яйце куряче, вершки, крем сир, томати</td>
+            <td>бріош, яйце куряче смажене,</td>
+        </tr>
+        <tr style="font-size:13px">
+            <td>вівсяні пластівці, банан, горіх мигдаль,</td>
+            <td>соусі, ковбаска мисливська, листя</td>
+            <td>чері, авокадо, сік лайму, зелена олія,</td>
+            <td>беконовий джем, крем сир, мікс салату,</td>
+        </tr>
+        <tr style="font-size:12px">
+            <td>кокосове молоко, цукор, м'ята, сезонн</td>
+            <td>салату, помідори чері, яйце куряче, хліб</td>
+            <td>сир страчателла, мікрогрін.</td>
+            <td>чері, морква міні, соус сирний,</td>
+        </tr>
+        <tr style="font-size:13px">
+            <td>фрукти та ягоди.</td>
+            <td>цільозерновий власного виробництва.</td>
+            <td>250 грн</td>
+            <td>цибулевий кранч, нитки чілі.</td>
+        </tr>
+         <tr style="font-size:13px">
+            <td>88 грн</td>
+            <td>169 грн</td>
+            <td></td>
+            <td>270 грн</td>
+        </tr>
+    </table>
+    <h2 id="Піца"style="text-align:center">Піца</h2>
+            <img src="https://shosho.pizza/shop/thumbnails_product_460_/Pizza_1080x1080_0004_%D0%A8%D0%B0%D1%80%2014.jpeg"width="200px">
+           <img src="https://shosho.pizza/shop/thumbnails_product_460_/Pizza_1080x1080_0001_%D0%A8%D0%B0%D1%80%2017.jpeg"width="200px">
+           <img src="https://shosho.pizza/shop/thumbnails_product_460_/Pizza_1080x1080_0014_%D0%A8%D0%B0%D1%80%204.jpeg"width="200px">
+           <img src="https://shosho.pizza/shop/thumbnails_product_460_/Pizza_1080x1080_0016_%D0%A8%D0%B0%D1%80%202.jpeg"width="200px">
+    <table>
+        <tr style="font-size:18px">
+            <td>Піца з помідорами чері та </td>
+            <td>Цезар</td>
+            <td>Капрічоза</td>
+            <td>Вегетаріано</td>
+        </tr>
+        <tr style="font-size:13px">
+            <td>моцарелою</td>
+            <td>тісто, соус, сир, куряче філе, бекон,</td>
+            <td>тісто, соус, сир, шинка, моцарела,</td>
+            <td>тісто, соус, сир, помідор, печериці свіжі,</td>
+        </tr>
+        <tr style="font-size:13px">
+            <td>тісто, соус, сир, шинка, помідори чері,</td>
+            <td>помідор, мікс салатів, соус "Цезар",</td>
+            <td>печериці свіжі, каперси, пармезан</td>
+            <td>маслини, перець свіжий, кукурудза</td>
+        </tr>
+        <tr style="font-size:12px">
+            <td>моцарела, пармезан (450г / 950г)</td>
+            <td>пармезан (450г / 1000г)</td>
+            <td>(430г / 950г)</td>
+            <td>(470г / 850г)</td>
+        </tr>
+        <tr style="font-size:13px">
+            <td>218 грн</td>
+            <td>260грн</td>
+            <td>217 грн</td>
+            <td>208 грн</td>
+        </tr>
+    </table>
+        <h2 id="Суші" style="text-align:center">Суші</h2>
+            <img src="https://shosho.pizza/shop/thumbnails_product_460_/%D0%9A%D0%B0%D0%BB%D1%96%D1%84%D0%BE%D1%80%D0%BD%D1%96%D1%8F%20%D0%B2%20%D0%BA%D1%83%D0%BD%D0%B6%D1%83%D1%82%D1%96%20%D0%B7%20%D0%BB%D0%BE%D1%81%D0%BE%D1%81%D0%B5%D0%BC.jpeg"width="200px">
+           <img src="https://shosho.pizza/shop/thumbnails_product_460_/%D0%A1%D0%B5%D1%82%20%D0%86%D0%B7%D1%83%D0%BC%D1%96.jpeg"width="200px">
+           <img src="https://shosho.pizza/shop/thumbnails_product_460_/%D0%A0%D0%BE%D0%BB%20%D0%A7%D1%96%D0%B7%20%D0%B7%20%D0%BB%D0%BE%D1%81%D0%BE%D1%81%D0%B5%D0%BC.jpeg"width="200px">
+           <img src="https://shosho.pizza/shop/thumbnails_product_460_/%D0%A0%D0%BE%D0%BB%20%D0%A4%D1%96%D0%BB%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C%D1%84%D1%96%D1%8F.jpeg"width="200px">
+    <table>
+        <tr style="font-size:18px">
+            <td>Каліфорнія в кунжуті з </td>
+            <td>Сет Ізумі</td>
+            <td>Рол Чіз з лососем</td>
+            <td>Рол Філадельфія</td>
+        </tr>
+        <tr style="font-size:13px">
+            <td>лососем</td>
+            <td>Рол Фурацу Тора, Каліфорнія в кунжуті</td>
+            <td>лосось,норі,крем-сир,сир моцарела,</td>
+            <td>лосось, норі, авокадо, крем-сир, рисові</td>
+        </tr>
+        <tr style="font-size:13px">
+            <td>лосось, норі, крем-сир, огірок, кунжут,</td>
+            <td>з копченим лососем, Рол філадельфія</td>
+            <td>сир пармезан, соус спайсі, соус світ чілі,</td>
+            <td>кульки, імбир, васабі</td>
+        </tr>
+        <tr style="font-size:12px">
+            <td>імбир, васабі</td>
+            <td>925 грн</td>
+            <td>ікра корюшки,кунжут, імбир , васабі</td>
+            <td>325 грн</td>
+        </tr>
+        <tr style="font-size:13px">
+            <td>236 грн</td>
+            <td></td>
+            <td>355 грн</td>
+            <td></td>
+        </tr>
+    </table>
+    <h2 id="Салати" style="text-align:center">Салати</h2>
+        <img src="https://shosho.pizza/shop/thumbnails_product_460_/IMG_7191%20(1).jpeg"width="200px">
+           <img src="https://shosho.pizza/shop/thumbnails_product_460_/%D0%A1%D1%82%D1%80%D0%B0%D0%B2%D0%B8_2_28_05_0020_DSC05314.jpeg"width="200px">
+           <img src="https://shosho.pizza/shop/thumbnails_product_460_/%D0%A2%D0%B5%D0%BF%D0%BB%D0%B8%D0%B9%20%D0%B7%20%D1%8F%D0%BB%D0%BE%D0%B2%D0%B8%D1%87%D0%B8%D0%BD%D0%BE%D1%8E.jpeg"width="200px">
+           <img src="https://shosho.pizza/shop/thumbnails_product_460_/%D0%A1%D1%82%D1%80%D0%B0%D0%B2%D0%B8_2_28_05_0012_DSC05518.jpeg"width="200px">
+    <table>
+        <tr style="font-size:18px">
+            <td>Цезар з куркою</td>
+            <td>Грецький</td>
+            <td>Теплий з телятиною</td>
+            <td>З тигровою креветкою</td>
+        </tr>
+        <tr style="font-size:13px">
+            <td>мікс салату, помідори чері, філе</td>
+            <td>мікс салату, огірки, помідори,перець</td>
+            <td>філе яловиче Стриплоїн, помідори</td>
+            <td>мікс салату , тигрові креветки, авокадо,</td>
+        </tr>
+        <tr style="font-size:13px">
+            <td>куряче, бекон, соус цезар, сир</td>
+            <td>болгарський, оливки, сир фета, олія</td>
+            <td>чері, перець болгарський, цибуля</td>
+            <td>помідори чері, сир пармезан, соус</td>
+        </tr>
+        <tr style="font-size:12px">
+            <td>пармезан</td>
+            <td>оливкова, цибуля кримська, приправа</td>
+            <td>порей, мікс салату, рукола, медово-</td>
+            <td></td>
+        </tr>
+        <tr style="font-size:13px">
+            <td></td>
+            <td>орегано</td>
+            <td>цитрусовий соус</td>
+            <td></td>
+        </tr>
+        <tr style="font-size:13px">
+            <td>230 грн</td>
+            <td>157 грн</td>
+            <td>315 грн</td>
+            <td>327 грн</td>
+        </tr>
+    </table>
+    <h2 id="Холоднізакуски" style="text-align:center">Холодні закуски</h2>   
+        <img src="https://shosho.pizza/shop/thumbnails_product_460_/20240401-0924-min-min.jpeg"width="200px">
+           <img src="https://shosho.pizza/shop/thumbnails_product_460_/IMG_7193%20(1).jpeg"width="200px">
+           <img src="https://shosho.pizza/shop/thumbnails_product_460_/%D0%A1%D1%82%D1%80%D0%B0%D0%B2%D0%B8_2_28_05_0032_DSC05067%20%E2%80%93%20%D0%BA%D0%BE%D0%BF%D1%96%D1%8F.jpeg"width="200px">
+           <img src="https://shosho.pizza/shop/thumbnails_product_460_/%D0%B1%D1%83%D0%BB%D0%BE%D1%87%D0%BA%D0%B0-150.jpeg"width="200px">
+    <table>
+        <tr style="font-size:18px">
+            <td>Печінковий паштет</td>
+            <td>Асорті до пива</td>
+            <td>Сальса з авокадо</td>
+            <td>Булочка</td>
+        </tr>
+        <tr style="font-size:13px">
+            <td>куряча печінка, ріпчаста цибуля,</td>
+            <td>Сир сулугуні,</td>
+            <td>авокадо, помідори, базилік, лимон,</td>
+            <td>Булочка</td>
+        </tr>
+        <tr style="font-size:13px">
+            <td>підсмажений бріош, фісташка, ягоди</td>
+            <td>тортилья,кабаноси,курхан філе куряче</td>
+            <td>&nbsp;запашне фокачо</td>
+            <td></td>
+        </tr>
+        <tr style="font-size:12px">
+            <td>по сезону, мікрогрін</td>
+            <td>сирокопчене)</td>
+            <td></td>
+            <td></td>
+        </tr>
+    </table>
+    <h2 id="Першістрави" style="text-align:center">Перші страви</h2>  
+     <table>
+        <tr>
+            <td><img src="https://shosho.pizza/shop/thumbnails_product_460_/%D0%A1%D1%82%D1%80%D0%B0%D0%B2%D0%B8_2_28_05_0010_DSC05554.jpeg"width="200px"></td>
+            <td><img src="https://shosho.pizza/shop/thumbnails_product_460_/IMG_7190.jpeg"width="200px"></td>
+            <td><img src="https://shosho.pizza/shop/thumbnails_product_460_/%D0%A1%D1%82%D1%80%D0%B0%D0%B2%D0%B8_2_28_05_0008_DSC05625.jpeg"width="200px"></td>
+            <td><img src="https://shosho.pizza/shop/thumbnails_product_460_/%D0%A1%D1%82%D1%80%D0%B0%D0%B2%D0%B8_2_28_05_0023_DSC05488.jpeg"width="200px"></td>
+        </tr>
+        <tr style="font-size:18px">
+            <td>Солянка</td>
+            <td>Бульйон курячий з локшиною</td>
+            <td>Борщ червоний з м'ясом та</td>
+            <td>Том-Ям з лососем та</td>
+        </tr>
+        <tr style="font-size:18px">
+            <td style="font-size:13px">Солянка</td>
+            <td>та перепелиним яйцем</td>
+            <td>булочкою</td>
+            <td>морепродуктами</td>
+        </tr>
+        <tr style="font-size:13px">
+            <td></td>
+            <td>Бульйон курячий з локшиною,</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr style="font-size:12px">
+            <td></td>
+            <td>перепелиним яйцем, бейбі морква та</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr style="font-size:13px">
+            <td></td>
+            <td>зелень</td>
+            <td></td>
+            <td></td>
+        </tr>
+    </table>
+    <h2 id="Млинцітапироги" style="text-align:center">Млинці та пироги</h2>    
+      <table>
+        <tr style="word-spacing: 5px">
+            <td><img src="https://shosho.pizza/shop/thumbnails_product_460_/%D0%A1%D1%82%D1%80%D0%B0%D0%B2%D0%B8_2_28_05_0000_DSC05826.jpeg"width="200px"></td>
+            <td><img src="https://shosho.pizza/shop/thumbnails_product_460_/%D0%A1%D1%82%D1%80%D0%B0%D0%B2%D0%B8_2_28_05_0004_DSC05729.jpeg"width="200px"></td>
+            <td><img src="https://shosho.pizza/shop/thumbnails_product_460_/%D0%A1%D1%82%D1%80%D0%B0%D0%B2%D0%B8_2_28_05_0013_DSC05701.jpeg"width="200px"></td>
+            <td><img src="https://shosho.pizza/shop/thumbnails_product_460_/20240401-1304-min-min.jpeg"width="200px"></td>  
+        </tr>
+        <tr style="font-size:18px;word-spacing: 1px">
+            <td>З джемом</td>
+            <td>З курячим м'ясом, грибами та </td>
+            <td>З лососем, шпинатом та крем-</td>
+            <td>Шоколадний млинець</td>
+        </tr>
+        <tr style="font-size:13px">
+            <td></td>
+            <td  style="font-size:18px">сиром</td>
+            <td  style="font-size:18px">сиром</td>
+            <td></td>
+        </tr>
+    </table>
+        <h2 id="ПастиіWOG" style="text-align:center">Пасти & WOG</h2>  
+    <table>
+         <tr>
+            <td><img src="https://shosho.pizza/shop/thumbnails_product_460_/%D0%A1%D1%82%D1%80%D0%B0%D0%B2%D0%B8_2_28_05_0037_DSC04971%20%E2%80%93%20%D0%BA%D0%BE%D0%BF%D1%96%D1%8F.jpeg"width="200px"></td>
+            <td><img src="https://shosho.pizza/shop/thumbnails_product_460_/%D0%A2%D0%B0%D0%BB%D1%8C%D1%8F%D1%82%D0%B5%D0%BB%D0%B5%20%D0%B7%20%D0%BA%D1%80%D0%B5%D0%B2%D0%B5%D1%82%D0%BA%D0%BE%D1%8E.jpeg"width="200px"></td>
+            <td><img src="https://shosho.pizza/shop/thumbnails_product_460_/%D0%A1%D1%82%D1%80%D0%B0%D0%B2%D0%B8_2_28_05_0036_DSC04983%20%E2%80%93%20%D0%BA%D0%BE%D0%BF%D1%96%D1%8F.jpeg"width="200px"></td>
+            <td><img src="https://shosho.pizza/shop/thumbnails_product_460_/%D0%A1%D1%82%D1%80%D0%B0%D0%B2%D0%B8_2_28_05_0027_DSC05103.jpeg"width="200px"></td>  
+        </tr>
+        <tr style="font-size:18px">
+            <td>Карбонара</td>
+            <td>Тальятеле з креветкою</td>
+            <td>Фарфале з куркою та грибами</td>
+            <td>Равіолі з індичкою в сирному</td>
+        </tr>
+        <tr style="font-size:13px">
+            <td>спагеті, вершки, яєчний жовток, бекон,</td>
+            <td>Паста тальятеле, тигрові креветки, сир</td>
+            <td>фарфалле, вершки, печериці, куряче</td>
+            <td  style="font-size:18px">соусі</td>
+        </tr>
+        <tr style="font-size:13px">
+            <td>пармезан</td>
+            <td>дор-блу, вершки, томати чері, бульйон,</td>
+            <td>м`ясо, пармезан.</td>
+            <td>равіолі з індичкою, сирний соус,</td>
+        </tr>
+        <tr style="font-size:12px">
+            <td></td>
+            <td>пармезан, базилік, зелена олія.</td>
+            <td></td>
+            <td>пармезан, мікрогрін</td>
+        </tr>
+    </table>
+        <h2 id="Гарячістравитагарніри" style="text-align:center">Гарячі страви та гарніри</h2>  
+    <table>
+         <tr>
+            <td><img src="https://shosho.pizza/shop/thumbnails_product_460_/3094.jpeg"width="200px"></td>
+            <td><img src="https://shosho.pizza/shop/thumbnails_product_460_/3107.jpeg"width="200px"></td>
+            <td><img src="https://shosho.pizza/shop/thumbnails_product_460_/%D0%9A%D1%80%D0%B5%D0%B2%D0%B5%D1%82%D0%BA%D0%B0%20%D0%B7%20%D0%BF%D1%80%D1%8F%D0%BD%D0%BE%D1%8E%20%D1%81%D0%B0%D0%BB%D1%8C%D1%81%D0%BE%D1%8E.jpeg"width="200px"></td>
+            <td><img src="https://shosho.pizza/shop/thumbnails_product_460_/%D0%9A%D0%B0%D1%80%D1%82%D0%BE%D0%BF%D0%BB%D1%8F%D0%BD%D1%96%20%D0%B4%D1%96%D0%BF%D0%B8.jpeg"width="200px"></td>  
+        </tr>
+        <tr style="font-size:18px">
+            <td>З яловичини та овочами</td>
+            <td>З курячим філе у вершковому</td>
+            <td>Креветка з пряною сальсою</td>
+            <td>Картопляні діпи</td>
+        </tr>
+        <tr style="font-size:13px">
+            <td>Картопля тушкована, телятина, сир</td>
+            <td style="font-size:18px">соусі</td>
+            <td>креветка смажена в панко, соус спайсі,</td>
+            <td>Картопляні діпи із сирним соусом</td>
+        </tr>
+        <tr style="font-size:13px">
+            <td>твердий, овочевий мікс, грибна</td>
+            <td>картопля тушкована, філе куряче, сир</td>
+            <td>соус солодкий чилі, авокадо, помідор</td>
+            <td>132 грн</td>
+        </tr>
+        <tr style="font-size:12px">
+            <td>підлива, соус бешамель,зелень</td>
+            <td>твердий грибна підлива, соус</td>
+            <td>канкасе, базилік, кунжут.</td>
+            <td></td>
+        </tr>
+        <tr style="font-size:13px">
+            <td>156 грн</td>
+            <td>бешамель,зелень</td>
+            <td>325 грн</td>
+            <td></td>
+        </tr>
+         <tr style="font-size:13px">
+            <td></td>
+            <td>142 грн</td>
+            <td></td>
+            <td></td>
+        </tr>
+    </table>
+        <h2 id="Бургери" style="text-align:center">Бургери</h2>  
+    <table>
+        <tr>
+            <td><img src="https://shosho.pizza/shop/thumbnails_product_460_/%D0%A1%D1%82%D1%80%D0%B0%D0%B2%D0%B8_2_28_05_0022_DSC05257.jpeg"width="200px"></td>
+            <td><img src="https://shosho.pizza/shop/thumbnails_product_460_/%D0%91%D1%83%D1%80%D0%B3%D0%B5%D1%80%20%D0%B7%20%D1%85%D1%80%D1%83%D1%81%D1%82%D0%BA%D0%BE%D1%8E%20%D0%BA%D1%83%D1%80%D0%BA%D0%BE%D1%8E.jpeg"width="200px"></td>
+            <td><img src="https://shosho.pizza/shop/thumbnails_product_460_/%D0%97%D0%B0%D0%BA%D1%80%D0%B8%D1%82%D0%B8%D0%B9_%D0%B1%D1%83%D1%80%D0%B3%D0%B5%D1%80_%D0%B7_%D0%BA%D1%83%D1%80%D1%8F%D1%87%D0%BE%D1%8E_%D0%BA%D0%BE%D1%82%D0%BB%D0%B5%D1%82%D0%BE%D1%8E.jpeg"width="200px"></td>
+            <td><img src="https://shosho.pizza/shop/thumbnails_product_460_/%D0%A1%D1%83%D1%88%D1%96%20%D0%91%D1%83%D1%80%D0%B3%D0%B5%D1%80.jpeg"width="200px"></td>  
+        </tr>
+        <tr style="font-size:18px">
+            <td>Вега-бургер Картопля фрі</td>
+            <td>Бургер з хрусткою куркою</td>
+            <td>Закритий бургер з курячою котлетою</td>
+            <td>Суші Бургер</td>
+        </tr>
+        <tr style="font-size:13px">
+            <td>Булочка бургерна, перець печений,</td>
+            <td>булка, філе стегна у паніровці із панко</td>
+            <td>булка, котлета з курятини, сир твердий,</td>
+            <td>рис із чорнилом каракатиці, норі,</td>
+        </tr>
+        <tr style="font-size:13px">
+            <td>салат айсберг, цибуля кримська,</td>
+            <td>помідор, гірчичка,базилік, соус</td>
+            <td>помідор, соус сирний, салат айзберг,</td>
+            <td>лосось слабосолений, крем-сир, салат</td>
+        </tr>
+        <tr style="font-size:12px">
+            <td>помідор свіжий, авокадо, соус барбекю,</td>
+            <td>дзадзикі, подається із картопляними</td>
+            <td>соус цезар, подається з картопляними</td>
+            <td>айсберг, ікра тобіко, авокадо, сухарі</td>
+        </tr>
+        <tr style="font-size:13px">
+            <td>гірчиця в зернах</td>
+            <td>діпами та кетчупом</td>
+            <td>діпами та кетчупом.</td>
+            <td>панко, соус спайсі, васабі, імбир.</td>
+        </tr>
+        <tr style="font-size:13px">
+            <td>225 грн</td>
+            <td>270 грн</td>
+            <td>220 грн</td>
+            <td>410 грн</td>
+        </tr>
+    </table>
+        <h2 id="Соуси" style="text-align:center">Соуси</h2>  
+    <table>
+        <tr>
+            <td><img src="https://shosho.pizza/shop/thumbnails_product_460_/tartarrr-7.jpeg"width="200px"></td>
+            <td><img src="https://shosho.pizza/shop/thumbnails_product_460_/Photo-8.jpeg"width="200px"></td>
+            <td><img src="https://shosho.pizza/shop/thumbnails_product_460_/%D0%91%D0%B0%D1%80%D0%B1%D0%B5%D0%BA%D1%8E-12.jpeg"width="200px"></td>
+            <td><img src="https://shosho.pizza/shop/thumbnails_product_460_/Photo-11.jpeg"width="200px"></td>  
+        </tr>
+        <tr style="font-size:18px">
+            <td>Тартар</td>
+            <td>Цезар</td>
+            <td>Барбекю</td>
+            <td>Сирний</td>
+        </tr>
+        <tr style="font-size:13px">
+            <td>Тартар</td>
+            <td>Цезар</td>
+            <td>Барбекю</td>
+            <td>Сирний</td>
+        </tr>
+        
+    </table>
+    <h2 id="Грильменю" style="text-align:center">Гриль меню</h2>  
+    <table>
+        <tr>
+            <td><img src="https://shosho.pizza/shop/thumbnails_product_460_/%D0%A1%D1%82%D1%80%D0%B0%D0%B2%D0%B8_2_28_05_0024_DSC05204.jpeg"width="200px"></td>
+            <td><img src="https://shosho.pizza/shop/thumbnails_product_460_/%D0%A1%D1%82%D1%80%D0%B0%D0%B2%D0%B8_2_28_05_0025_DSC05172.jpeg"width="200px"></td>
+            <td><img src="https://shosho.pizza/shop/thumbnails_product_460_/%D0%A1%D1%82%D1%80%D0%B0%D0%B2%D0%B8_2_28_05_0021_DSC05298.jpeg"width="200px"></td>
+            <td><img src="https://shosho.pizza/shop/thumbnails_product_460_/2848.jpeg"width="200px"></td>  
+        </tr>
+        <tr style="font-size:18px">
+            <td>Філе куряче на грилі</td>
+            <td>Стейк з яловичини</td>
+            <td>Філе лосося на грилі</td>
+            <td>Овочі гриль</td>
+        </tr>
+        <tr style="font-size:13px">
+            <td>Ціна за 100 грам</td>
+            <td>Ціна за 100 грам</td>
+            <td>Ціна за 100 грам</td>
+            <td></td>
+        </tr>
+       
+    </table>
+    <h2 id="Десерти" style="text-align:center">Десерти</h2>  
+    <table>
+        <tr>
+            <td><img src="https://shosho.pizza/shop/thumbnails_product_460_/Photo%20(14111).jpeg"width="200px"></td>
+            <td><img src="https://shosho.pizza/shop/thumbnails_product_460_/%D0%95%D1%81%D1%82%D0%B5%D1%80%D1%85%D0%B0%D0%B7%D1%96.jpeg"width="200px"></td>
+            <td><img src="https://shosho.pizza/shop/thumbnails_product_460_/IMG_5775.jpeg"width="200px"></td>
+            <td><img src="https://shosho.pizza/shop/thumbnails_product_460_/IMG_5774.jpeg"width="200px"></td>  
+        </tr>
+        <tr style="font-size:18px">
+            <td>Чізкейк Орео</td>
+            <td>Естерхазі</td>
+            <td>Торт "Фереро"</td>
+            <td>Фісташковий чізкейк</td>
+        </tr>
+        <tr style="font-size:13px">
+            <td>115 грн</td>
+            <td>105 грн</td>
+            <td>230 грн</td>
+            <td>185 грн</td>
+        </tr>
+       
+    </table>
+    <h2 id="Додатки" style="text-align:center">Додатки</h2>  
+    <table>
+        <tr>
+            <td><img src="https://shosho.pizza/shop/thumbnails_product_460_/%D0%A1%D1%82%D1%80%D0%B0%D0%B2%D0%B8_2_28_05_0003_DSC05741.jpeg"width="200px"></td>
+            <td><img src="https://shosho.pizza/shop/thumbnails_product_460_/%D0%94%D0%BE%D0%B4%D0%B0%D1%82%D0%BA%D0%B8_1080x1080_0029_DSC06621.jpeg"width="200px"></td>
+            <td><img src="https://shosho.pizza/shop/thumbnails_product_460_/%D0%94%D0%BE%D0%B4%D0%B0%D1%82%D0%BA%D0%B8_1080x1080_0026_DSC06685.jpeg"width="200px"></td>
+            <td><img src="https://shosho.pizza/shop/thumbnails_product_460_/%D0%94%D0%BE%D0%B4%D0%B0%D1%82%D0%BA%D0%B8_1080x1080_0025_DSC06692.jpeg"width="200px"></td>  
+        </tr>
+        <tr style="font-size:18px">
+            <td>Основа для піци (вершкова)</td>
+            <td>Додаток до піци Сир пармезан</td>
+            <td>Додаток до піци Базилік</td>
+            <td>Додаток до піци Листя салату</td>
+        </tr>
+        <tr style="font-size:13px">
+            <td>Тісто, вершковий соус, сир</td>
+            <td>Додаток до піци Сир пармезан</td>
+            <td>Додаток до піци Базилік</td>
+            <td><Додаток до піци Листя салату</td>
+            
+        </tr>
+        
+    </table>
+    <h2 id="Напої" style="text-align:center">Напої</h2>  
+    <table>
+        <tr>
+            <td><img src="https://shosho.pizza/shop/thumbnails_product_460_/%D0%B4%D0%BE%D0%B7%D0%B9%D0%BE%D0%BC%D0%BA%D0%B0.jpeg"width="200px"></td>
+            <td><img src="https://shosho.pizza/shop/thumbnails_product_460_/%D0%B1%D0%B0%D1%803.jpeg"width="200px"></td>
+            <td><img src="https://shosho.pizza/shop/thumbnails_product_460_/%D0%B1%D0%B0%D1%804.jpeg"width="200px"></td>
+            <td><img src="https://shosho.pizza/shop/thumbnails_product_460_/%D0%B4%D0%BE%D0%B7%D0%B9%D0%BE%D0%BC%D0%BA%D0%B01.jpeg"width="200px"></td>  
+        </tr>
+        <tr style="font-size:18px">
+            <td>Кава фрапе</td>
+            <td>Капучино</td>
+            <td>Кава лате</td>
+            <td>Кава ґлясе</td>
+        </tr>
+        <tr style="font-size:13px">
+            <td>75 грн</td>
+            <td>80 грн</td>
+            <td>85 грн</td>
+            <td>120 грн</td>
+        </tr>
+        
+    </table>
+
+
+    </main>
+    <footer>
+        <table>
+            <tr style="font-size:13px">
+                <td>м. Чернівці,</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+             <tr style="font-size:13px">
+                <td>пр-т Незалежності, 78</td>
+                <td>(050) 379 78 78</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>Доставка Контакти Про нас</td>
+                <td></td>
+            </tr>
+             <tr style="font-size:13px">
+                <td>вул. Поштова 1</td>
+                <td>(067) 379 78 78</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td><a href="https://www.facebook.com/shosho.pizza/"><img src="https://shosho.pizza/vendor/shop/images/nysp_facebook.svg"></a><a href=""><img src="https://shosho.pizza/vendor/shop/images/nysp_insta.svg"></a></td>
+            </tr>
+             <tr style="font-size:13px">
+                <td>вул. Трепка, 2</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>2025 © "GoyraGroup"</td>
+                <td>Оферта</td>
+                <td>Розробка сайту -<a href="https://brilliant.ltd/"><img src="https://shosho.pizza/vendor/shop/images/nysp_brilliant.svg" ></a></td>
+            </tr>
+             <tr style="font-size:13px">
+                <td>вул. Руська, 209-Б</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td>Підтримка сайту -<a href="https://zentixsoft.com/en"><img src="https://shosho.pizza/vendor/shop/images/zentix.svg" ></a></td>
+            </tr>
+             <tr style="font-size:13px">
+                <td>Пн. - Нд.: 9:00 - 22:00</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+             <tr style="font-size:13px">
+                <td>Вівторок: 10:00 - 22:00</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+        </table>          
+      </footer>
+</body>
+
+</html>
